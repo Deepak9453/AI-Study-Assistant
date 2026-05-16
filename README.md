@@ -23,29 +23,6 @@ The project uses Retrieval-Augmented Generation (RAG) with Llama3 via Ollama to 
 ✅ Modern Streamlit UI
 ✅ RAG-based Context Retrieval
 
-# 📸 Screenshots
-
-## Home Page
-
-![Home](screenshots/pic1.png)
-
----
-
-## Quiz Generator
-
-![Quiz](screenshots/pic2.png)
-
----
-
-## Flashcards
-
-![Flashcards](screenshots/pic3.png)
-
----
-
-## Summary Feature
-
-![Summary](screenshots/pic5.png)
 
 🛠️ Tech Stack
 Frontend
